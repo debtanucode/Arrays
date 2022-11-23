@@ -6,6 +6,7 @@ public class ArrayUtil {
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]+"  ");
         }
+        System.out.println();
     }
 
     public static void swap(int[] arr , int index1 , int index2) {
